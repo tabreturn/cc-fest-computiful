@@ -2,15 +2,34 @@
 
 *Resources for my Virtual CC Fest 2021 session (Creative Coding with Python and Processing)*
 
-I'll be adding links, slides, code, and other resources here ...
+## Session Resources 
+
+**1 - Start here:** https://editor.computiful.org/tabreturn/sketches/V6gvX-LN8
+
+I'll be adding links, code, slides, and more soon ...
 
 <!--
-## 1 - start here
-https://editor.computiful.org/tabreturn/sketches/V6gvX-LN8
+**2 - Scaffolding the sketch:** https://editor.computiful.org/tabreturn/sketches/F6dumhqW0
 
-## 2 - scaffolding the sketch
-https://editor.computiful.org/tabreturn/sketches/F6dumhqW0
+**3 - The complete simulation:** https://editor.computiful.org/tabreturn/sketches/ntcglEnHh
 
-## 3 - the completed simulation
-https://editor.computiful.org/tabreturn/sketches/ntcglEnHh
+---
+
+## Official Python Mode for Processing / Processing.py resources
+
+* [Website](https://py.processing.org/)
+* [Reference](https://py.processing.org/reference/)
+* [Forum](https://discourse.processing.org/c/processing-py/)
+
+Installing Python Mode for the Processing IDE:
+
+<img src="https://tabreturn.github.io/img/pitl01/intro-to-processing-add-python-mode.png" width="600" />
+
+## Other useful resources 
+
+* [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
+* [My book (coming soon)](https://nostarch.com/)
+* [Book tasks/code](https://github.com/tabreturn/processing.py-book)
+* [Processing.py lessons on my blog](https://tabreturn.github.io/#processing-reverse)
+* [Villares' list of Python tools for Processing](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
 -->
