@@ -7,7 +7,7 @@
 **1 - Start here:** https://editor.computiful.org/tabreturn/sketches/V6gvX-LN8
 
 I'll be adding links, code, slides, and more soon ...
-<!--
+
 **2 - Scaffolding the sketch:** https://editor.computiful.org/tabreturn/sketches/F6dumhqW0
 
 **3 - The complete simulation:** https://editor.computiful.org/tabreturn/sketches/ntcglEnHh
@@ -39,4 +39,4 @@ Take 35% off your pre-order of Learn Python Visually until February 4th at https
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
 A repository containg all of the book's [tasks/code](https://github.com/tabreturn/processing.py-book).
--->
+
