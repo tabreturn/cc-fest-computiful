@@ -29,6 +29,7 @@ Installing Python Mode for the Processing IDE:
 * [Processing.py lessons on my blog](https://tabreturn.github.io/#processing-reverse)
 * [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
 * [Villares' list of Processing + Python resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
+* [Slides from the session](slides.pdf)
 
 
 ## Purchase the Learn Python Visually book
@@ -37,5 +38,5 @@ Take 35% off your pre-order of Learn Python Visually until February 4th at https
 
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
-* [Book tasks/code](https://github.com/tabreturn/processing.py-book)
+A repository containg all of the book's [tasks/code](https://github.com/tabreturn/processing.py-book).
 -->
