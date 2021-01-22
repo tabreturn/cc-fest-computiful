@@ -30,6 +30,7 @@ Installing Python Mode for the Processing IDE:
 * [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
 * [villares' tips for porting Processing (Java) code to Python mode](https://abav.lugaralgum.com/py.processing-play/java_to_python)
 * [villares' list of Processing + Python resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
+* [Portable Thonny + p5](https://tabreturn.github.io/code/python/2020/02/26/thonny_and_p5.html)
 * [Slides for the CC Fest session](slides.pdf)
 
 
