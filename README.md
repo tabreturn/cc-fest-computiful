@@ -28,7 +28,8 @@ Installing Python Mode for the Processing IDE:
 
 * [Processing.py lessons on my blog](https://tabreturn.github.io/#processing-reverse)
 * [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
-* [Villares' list of Processing + Python resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
+* [villares' tips for porting Processing (Java) code to Python mode](https://abav.lugaralgum.com/py.processing-play/java_to_python)
+* [villares' list of Processing + Python resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
 * [Slides for the CC Fest session](slides.pdf)
 
 
