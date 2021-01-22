@@ -7,7 +7,7 @@
 **1 - Start here:** https://editor.computiful.org/tabreturn/sketches/V6gvX-LN8
 
 I'll be adding links, code, slides, and more soon ...
-
+<!--
 **2 - Scaffolding the sketch:** https://editor.computiful.org/tabreturn/sketches/F6dumhqW0
 
 **3 - The complete simulation:** https://editor.computiful.org/tabreturn/sketches/ntcglEnHh
@@ -29,7 +29,7 @@ Installing Python Mode for the Processing IDE:
 * [Processing.py lessons on my blog](https://tabreturn.github.io/#processing-reverse)
 * [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
 * [Villares' list of Processing + Python resources](https://github.com/villares/Resources-for-teaching-programming#user-content-processing--python-tools-table)
-* [Slides from the session](slides.pdf)
+* [Slides for the CC Fest session](slides.pdf)
 
 
 ## Purchase the Learn Python Visually book
@@ -39,4 +39,4 @@ Take 35% off your pre-order of Learn Python Visually until February 4th at https
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
 A repository containg all of the book's [tasks/code](https://github.com/tabreturn/processing.py-book).
-
+-->
