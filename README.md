@@ -39,4 +39,4 @@ Take 35% off your pre-order of *Learn Python Visually -- Creative Coding the Pyt
 
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
-You can find the [source code and resources for all of the book tasks here](https://github.com/tabreturn/processing.py-book).
+You can find the source code and resources for all of the tasks [in the book's GitHub repository](https://github.com/tabreturn/processing.py-book).
