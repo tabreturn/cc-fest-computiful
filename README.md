@@ -35,7 +35,7 @@ Installing Python Mode for the Processing IDE:
 
 ## Purchase the Learn Python Visually book
 
-Take 35% off your pre-order of *Learn Python Visually – Creative Coding the Python Mode for Processing* until February 4th at https://nostarch.com/Learn-Python-Visually using the coupon code: GETCREATIVE. You'll get an early access PDF now; you'll receive the print version around April 2021.
+Take 35% off your pre-order of *Learn Python Visually – Creative Coding with Python Mode for Processing* until February 4th at https://nostarch.com/Learn-Python-Visually using the coupon code: GETCREATIVE. You'll get an early access PDF now; you'll receive the print version around April 2021.
 
 <img src="http://portfolio.tabreturn.com/images/learn-python-visually.png" width="600" />
 
