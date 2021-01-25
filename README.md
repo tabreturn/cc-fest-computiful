@@ -10,6 +10,8 @@
 
 **3 - The complete simulation:** https://editor.computiful.org/tabreturn/sketches/ntcglEnHh
 
+Here are the **session slides** and **session recording**: [slides.pdf](slides.pdf) and [recording.mp4](recording.mp4)
+
 ---
 
 ## Official Python Mode for Processing / Processing.py resources
@@ -24,7 +26,6 @@ Installing Python Mode for the Processing IDE:
 
 ## Other useful resources 
 
-* [Slides for the CC Fest session](slides.pdf)
 * [Processing.py lessons on my blog](https://tabreturn.github.io/#processing-reverse)
 * [Python Mode cheat sheet](https://github.com/tabreturn/processing.py-cheat-sheet)
 * [villares' tips for porting Processing (Java) code to Python mode](https://abav.lugaralgum.com/py.processing-play/java_to_python)
